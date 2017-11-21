@@ -19,47 +19,47 @@ An important info about the package folders for you to get started:
 - _documentation  						- Contains of admin and frontend themes general documentation files.
 - _resources      						- Contains of commercially licensed and free stock photos and the theme's PSD files.
 - theme       							- Metronic HTML theme's main folder(Default version).
-    |- assets        					- Contains of theme related files(css, js, images, etc).
-	   |- admin   						- Contains of admin theme related files(css, js, images, etc).
-	   |- global  						- Contains of global Metronic framework components, customized 3rd party plugins. 
+    - assets        					- Contains of theme related files(css, js, images, etc).
+	   - admin   						- Contains of admin theme related files(css, js, images, etc).
+	   - global  						- Contains of global Metronic framework components, customized 3rd party plugins. 
 		              	  				  All the features under global folder can be used both in frontend theme and admin theme.
-	|- sass								- Contains of SASS(sass-lang.com) files for the admin theme(only the admin default version fully supports SASS).
-    |- templates       					- Contains of admin and frontend theme template pages.
-	   |- admin       					- Contains of admin theme templates pages.
-	   |- admin2       					- Contains of admin 2 theme templates pages.
-	   |- admin3       					- Contains of admin 3 theme templates pages.
-	   |- admin4       					- Contains of admin 4 theme templates pages.
-	   |- admin5       					- Contains of admin 5 theme templates pages.
-	   |- admin6       					- Contains of admin 6 theme templates pages.
-	   |- admin7       					- Contains of admin 7 theme templates pages.
-	   |- admin_material_design       	- Contains of admin 1 theme's google material version.
-	   |- admin2_material_design       	- Contains of admin 2 theme's google material version.
-	   |- admin3_material_design       	- Contains of admin 3 theme's google material version.
-	   |- admin4_material_design       	- Contains of admin 4 theme's google material version.
-	   |- admin5_material_design       	- Contains of admin 5 theme's google material version.
-	   |- admin6_material_design       	- Contains of admin 6 theme's google material version.	
-	   |- admin7_material_design       	- Contains of admin 7 theme's google material version.	
+	- sass								- Contains of SASS(sass-lang.com) files for the admin theme(only the admin default version fully supports SASS).
+    - templates       					- Contains of admin and frontend theme template pages.
+	   - admin       					- Contains of admin theme templates pages.
+	   - admin2       					- Contains of admin 2 theme templates pages.
+	   - admin3       					- Contains of admin 3 theme templates pages.
+	   - admin4       					- Contains of admin 4 theme templates pages.
+	   - admin5       					- Contains of admin 5 theme templates pages.
+	   - admin6       					- Contains of admin 6 theme templates pages.
+	   - admin7       					- Contains of admin 7 theme templates pages.
+	   - admin_material_design       	- Contains of admin 1 theme's google material version.
+	   - admin2_material_design       	- Contains of admin 2 theme's google material version.
+	   - admin3_material_design       	- Contains of admin 3 theme's google material version.
+	   - admin4_material_design       	- Contains of admin 4 theme's google material version.
+	   - admin5_material_design       	- Contains of admin 5 theme's google material version.
+	   - admin6_material_design       	- Contains of admin 6 theme's google material version.	
+	   - admin7_material_design       	- Contains of admin 7 theme's google material version.	
 - theme_rtl   							- Metronic HTML theme's main folder for RTL(Right to Left(RTL)writing support. E.g: arabic, iranian).
 					     				  The RTL version contains all the files of the default version for language switching(from LTR to RTL and from RTL to LTR)
-    |- assets        					- Contains of theme related files(css, js, images, plugins, etc).
-	   |- admin							- Contains of admin theme related files(css, js, images, etc).
-	   |- global  						- Contains of global Metronic framework componets, customized 3rd party plugins. 
+    - assets        					- Contains of theme related files(css, js, images, plugins, etc).
+	   - admin							- Contains of admin theme related files(css, js, images, etc).
+	   - global  						- Contains of global Metronic framework componets, customized 3rd party plugins. 
 		              	  				  All the features under global folder can be used both in frontend theme and admin theme.
-    |- templates       					- Contains of admin and frontend theme template pages.
-	   |- admin       					- Contains of admin theme templates pages.
-	   |- admin2       					- Contains of admin 2 theme templates pages.
-	   |- admin3       					- Contains of admin 3 theme templates pages.
-	   |- admin4       					- Contains of admin 4 theme templates pages.
-	   |- admin5       					- Contains of admin 5 theme templates pages.
-	   |- admin6       					- Contains of admin 6 theme templates pages.
-	   |- admin7       					- Contains of admin 7 theme templates pages.
-	   |- admin_material_design       	- Contains of admin 1 theme's google material version.
-	   |- admin2_material_design       	- Contains of admin 2 theme's google material version.
-	   |- admin3_material_design       	- Contains of admin 3 theme's google material version.
-	   |- admin4_material_design       	- Contains of admin 4 theme's google material version.
-	   |- admin5_material_design       	- Contains of admin 5 theme's google material version.
-	   |- admin6_material_design       	- Contains of admin 6 theme's google material version.
-	   |- admin7_material_design       	- Contains of admin 7 theme's google material version.		
+    - templates       					- Contains of admin and frontend theme template pages.
+	   - admin       					- Contains of admin theme templates pages.
+	   - admin2       					- Contains of admin 2 theme templates pages.
+	   - admin3       					- Contains of admin 3 theme templates pages.
+	   - admin4       					- Contains of admin 4 theme templates pages.
+	   - admin5       					- Contains of admin 5 theme templates pages.
+	   - admin6       					- Contains of admin 6 theme templates pages.
+	   - admin7       					- Contains of admin 7 theme templates pages.
+	   - admin_material_design       	- Contains of admin 1 theme's google material version.
+	   - admin2_material_design       	- Contains of admin 2 theme's google material version.
+	   - admin3_material_design       	- Contains of admin 3 theme's google material version.
+	   - admin4_material_design       	- Contains of admin 4 theme's google material version.
+	   - admin5_material_design       	- Contains of admin 5 theme's google material version.
+	   - admin6_material_design       	- Contains of admin 6 theme's google material version.
+	   - admin7_material_design       	- Contains of admin 7 theme's google material version.		
 ===================================================================================================================================================
 
 # amChart DISCOUNT CODE FOR METRONIC USERS:
