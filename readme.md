@@ -15,10 +15,10 @@ License: 		You must have a valid license purchased only from themeforest(the abo
 Thanks for purchasing Metronic 4.0.2 and joining our awesome community! Start browsing the theme just open start.html in your browser.
 An important info about the package folders for you to get started:
 
-===================================================================================================================================================
-|- _documentation  						- Contains of admin and frontend themes general documentation files.
-|- _resources      						- Contains of commercially licensed and free stock photos and the theme's PSD files.
-|- theme       							- Metronic HTML theme's main folder(Default version).
+==============================================================================================================================================================
+- _documentation  						- Contains of admin and frontend themes general documentation files.
+- _resources      						- Contains of commercially licensed and free stock photos and the theme's PSD files.
+- theme       							- Metronic HTML theme's main folder(Default version).
     |- assets        					- Contains of theme related files(css, js, images, etc).
 	   |- admin   						- Contains of admin theme related files(css, js, images, etc).
 	   |- global  						- Contains of global Metronic framework components, customized 3rd party plugins. 
@@ -39,7 +39,7 @@ An important info about the package folders for you to get started:
 	   |- admin5_material_design       	- Contains of admin 5 theme's google material version.
 	   |- admin6_material_design       	- Contains of admin 6 theme's google material version.	
 	   |- admin7_material_design       	- Contains of admin 7 theme's google material version.	
-|- theme_rtl   							- Metronic HTML theme's main folder for RTL(Right to Left(RTL)writing support. E.g: arabic, iranian).
+- theme_rtl   							- Metronic HTML theme's main folder for RTL(Right to Left(RTL)writing support. E.g: arabic, iranian).
 					     				  The RTL version contains all the files of the default version for language switching(from LTR to RTL and from RTL to LTR)
     |- assets        					- Contains of theme related files(css, js, images, plugins, etc).
 	   |- admin							- Contains of admin theme related files(css, js, images, etc).
