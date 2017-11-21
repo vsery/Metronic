@@ -60,6 +60,7 @@ An important info about the package folders for you to get started:
 	   - admin5_material_design       	- Contains of admin 5 theme's google material version.
 	   - admin6_material_design       	- Contains of admin 6 theme's google material version.
 	   - admin7_material_design       	- Contains of admin 7 theme's google material version.		
+       
 ===================================================================================================================================================
 
 # amChart DISCOUNT CODE FOR METRONIC USERS:
