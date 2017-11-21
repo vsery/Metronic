@@ -1,5 +1,12 @@
 ## Metronic
 
+push an existing repository from the command line
+```
+git remote add origin https://github.com/vsery/Metronic.git
+git push -u origin master
+```
+
+
 ```
 Template Name: 	Metronic - Responsive Admin Dashboard Template build with Twitter Bootstrap 3.3.5
 Version: 		4.1.0
