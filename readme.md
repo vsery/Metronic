@@ -15,7 +15,7 @@ License: 		You must have a valid license purchased only from themeforest(the abo
 Thanks for purchasing Metronic 4.0.2 and joining our awesome community! Start browsing the theme just open start.html in your browser.
 An important info about the package folders for you to get started:
 
-===================================================================================================================================================
+
 |- _documentation  						- Contains of admin and frontend themes general documentation files.
 |- _resources      						- Contains of commercially licensed and free stock photos and the theme's PSD files.
 |- theme       							- Metronic HTML theme's main folder(Default version).
